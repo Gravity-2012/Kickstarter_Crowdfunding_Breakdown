@@ -1,4 +1,4 @@
-# Kickstarter_Crowdfunding_Breakdown
+# Kickstarter_Crowdfunding_Breakdown  by Trong Nguyen
 Analyzed a database of 4,000 past Kickstarter projects in order to uncover what made certain crowdfunding campaigns successful.
 
 Utizing Excel, I modified and analyzed the data of 4,000 past Kickstarter projects to try and attempt to uncover somemarket trends.
